@@ -29,4 +29,4 @@ On a utilisé le logiciel SOLIDworks
 Equilibrage des masses :
 Pour avoir une stabilité maximale, les charges les plus lourdes devaient être répartie de manière avoir le centre des masses centré. Nous avons donc choisi de mettre les cartes sur l’extrémité. La batterie a été placé au centre du châssis pour éviter que le poids de la batterie fasse basculer le châssis.
 
-![image](https://user-images.githubusercontent.com/83011466/121743264-5ff17e80-cb01-11eb-8c4a-3121e2c02935.png)
+![image](https://user-images.githubusercontent.com/83011466/121743315-77306c00-cb01-11eb-8137-f13f82f48ed2.png)

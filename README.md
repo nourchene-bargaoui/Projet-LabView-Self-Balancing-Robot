@@ -6,7 +6,9 @@ Objectifs :
 Pour réussir un tel projet, nous nous sommes fixés des objectifs dès le début. 
 Objectif au niveau du travail : 
 •Notre projet consiste en la fabrication d’un robot pendule inversé sur deux roues. 
+
 •Concevoir un système de contrôle numérique complet avec Labview
+
 •Stabiliser le système en boucle fermée
 
 

@@ -55,4 +55,4 @@ Nous allons simuler le robot par communication entre Arduino UNO et LABVIEW. Câ€
 
 # Results
 
-<iframe src='//gifs.com/embed/self-balancing-robot-GRZEkK' frameborder='0' scrolling='no' width='1280px' height='704px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' > </iframe>
+![image](https://j.gifs.com/GRZEkK.gif)

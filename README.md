@@ -19,14 +19,19 @@ Objectif au niveau du travail :
 
 # Etude théorique :
 
-A)	Benchmark :
+Benchmark :
 
 ![image](https://user-images.githubusercontent.com/83011466/121741655-1d2ea700-caff-11eb-918a-7b46cb9c8160.png)
 
-B)	Partie mécanique :
+# Partie mécanique :
 
 On a utilisé le logiciel SOLIDworks 
 Equilibrage des masses :
 Pour avoir une stabilité maximale, les charges les plus lourdes devaient être répartie de manière avoir le centre des masses centré. Nous avons donc choisi de mettre les cartes sur l’extrémité. La batterie a été placé au centre du châssis pour éviter que le poids de la batterie fasse basculer le châssis.
 
 ![image](https://user-images.githubusercontent.com/83011466/121743315-77306c00-cb01-11eb-8137-f13f82f48ed2.png)
+
+# Partie électrique :
+
+![image](https://user-images.githubusercontent.com/83011466/121743427-a050fc80-cb01-11eb-838f-f23d9f2b1e3f.png)
+

@@ -45,4 +45,11 @@ Cette partie de programmation employée pour l'asservissement utilise trois corr
 
 ![image](https://user-images.githubusercontent.com/83011466/121743648-f32ab400-cb01-11eb-8885-2987e1172a8c.png)
 
+# Etude sur LabView
+
+Nous allons simuler le robot par communication entre Arduino UNO et LABVIEW. C’est pourquoi on a utilisé la bibliothèque « VISA »
+
+![image](https://user-images.githubusercontent.com/83011466/121743765-24a37f80-cb02-11eb-892a-48d6a26c88e8.png)
+
+![image](https://user-images.githubusercontent.com/83011466/121743804-36852280-cb02-11eb-9f85-b631b72ce129.png)
 

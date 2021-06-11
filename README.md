@@ -8,3 +8,7 @@ Objectif au niveau du travail :
 •Notre projet consiste en la fabrication d’un robot pendule inversé sur deux roues. 
 •Concevoir un système de contrôle numérique complet avec Labview
 •Stabiliser le système en boucle fermée
+
+
+![image](https://user-images.githubusercontent.com/83011466/121741114-561a4c00-cafe-11eb-8072-2830ec402588.png)
+

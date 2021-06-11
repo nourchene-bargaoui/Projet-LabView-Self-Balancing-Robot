@@ -17,4 +17,8 @@ Objectif au niveau du travail :
 
 ![image](https://user-images.githubusercontent.com/83011466/121741114-561a4c00-cafe-11eb-8072-2830ec402588.png)
 
+# Etude théorique :
 
+A)	Benchmark :
+
+![image](https://user-images.githubusercontent.com/83011466/121741655-1d2ea700-caff-11eb-918a-7b46cb9c8160.png)

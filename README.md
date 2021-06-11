@@ -33,5 +33,9 @@ Pour avoir une stabilité maximale, les charges les plus lourdes devaient être 
 
 # Partie électrique :
 
+La conception électrique a été réalisé avec le logiciel Fritzing
+On relie les deux moteurs à la carte de puissance qui sera relié à son tour à la carte Arduino, entre eux existe un interrupteur 
+
+
 ![image](https://user-images.githubusercontent.com/83011466/121743427-a050fc80-cb01-11eb-838f-f23d9f2b1e3f.png)
 

@@ -39,3 +39,10 @@ On relie les deux moteurs à la carte de puissance qui sera relié à son tour �
 
 ![image](https://user-images.githubusercontent.com/83011466/121743427-a050fc80-cb01-11eb-838f-f23d9f2b1e3f.png)
 
+# Programmation 
+
+Cette partie de programmation employée pour l'asservissement utilise trois correcteurs qui doivent permettre de réaliser le meilleur compromis possible entre précision, stabilité et rapidité du système. Elle se sert de l'erreur (la différence entre la consigne et la mesure) pour faire ces trois correcteurs. Elle est essentielle pour l'optimisation du fonctionnement de notre robot 
+
+![image](https://user-images.githubusercontent.com/83011466/121743648-f32ab400-cb01-11eb-8885-2987e1172a8c.png)
+
+
